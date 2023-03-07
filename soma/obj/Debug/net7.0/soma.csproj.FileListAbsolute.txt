@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\resolucao_desafios\soma\bin\Debug\net7.0\soma.exe
+C:\Projetos\CSharp\resolucao_desafios\soma\bin\Debug\net7.0\soma.deps.json
+C:\Projetos\CSharp\resolucao_desafios\soma\bin\Debug\net7.0\soma.runtimeconfig.json
+C:\Projetos\CSharp\resolucao_desafios\soma\bin\Debug\net7.0\soma.dll
+C:\Projetos\CSharp\resolucao_desafios\soma\bin\Debug\net7.0\soma.pdb
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.AssemblyInfo.cs
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.dll
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\refint\soma.dll
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.pdb
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\soma.genruntimeconfig.cache
+C:\Projetos\CSharp\resolucao_desafios\soma\obj\Debug\net7.0\ref\soma.dll
