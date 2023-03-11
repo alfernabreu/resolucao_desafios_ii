@@ -29,14 +29,14 @@ namespace reverse_string
         public static void Main(string[] args)
         {
             Console.WriteLine("Bem-vindo(a)\nO propósito deste aplicativo é apresentar a versão invertida de uma palavra ou frase informada pelo usuário");
-            Console.Write("Informe uma plavra ou frase para vê-la invertida: ");
-            palavra = Console.ReadLine();
+            Console.Write("Informe uma palavra ou frase para vê-la invertida: ");
+            String palavra = Console.ReadLine();
 
             RetornaStringAoContrario(palavra);
 
+            
+
         }
-
-
     }
 }
 
