@@ -17,4 +17,4 @@ Os códigos estão no repositório. Caso deseje, é possível executá-los via R
 - 02_fibonacci.cs - https://replit.com/@alfernabreu/fibonacci#main.cs
 - 03_faturamento_diario.cs - 
 - 04_faturamento_mensal.cs - 
-- 05_inverte_string.cs - 
+- 05_reverse_string.cs - https://replit.com/@alfernabreu/reversestring
