@@ -21,21 +21,19 @@ namespace reverse_string
                 extensaoDaPalavra --;
             }
 
-            Console.WriteLine(palavraAoContrario);
+            Console.WriteLine($"A expressão {palavra} em sua forma invertida é: {palavraAoContrario}");
 
             Console.ReadLine();
         }
 
         public static void Main(string[] args)
         {
+            string novaPalavra;
             Console.WriteLine("Bem-vindo(a)\nO propósito deste aplicativo é apresentar a versão invertida de uma palavra ou frase informada pelo usuário");
             Console.Write("Informe uma palavra ou frase para vê-la invertida: ");
             String palavra = Console.ReadLine();
 
             RetornaStringAoContrario(palavra);
-
-            
-
         }
     }
 }
