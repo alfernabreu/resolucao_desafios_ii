@@ -16,7 +16,6 @@ namespace fibonacci
         {
             Console.WriteLine("\nBem-vindo(a)!\nVamos checar se o número digitado pelo usuário pertence ao conjunto de valores que compõe a Sequência de Fibonacci.");
 
-            bool valido = false;
             int numero;
             string opcao;
             string escolha = "sim";
