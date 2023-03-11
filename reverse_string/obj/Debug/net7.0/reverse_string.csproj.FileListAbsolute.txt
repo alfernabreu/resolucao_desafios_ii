@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.AssemblyInfo.cs
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\bin\Debug\net7.0\reverse_string.exe
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\bin\Debug\net7.0\reverse_string.deps.json
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\bin\Debug\net7.0\reverse_string.runtimeconfig.json
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\bin\Debug\net7.0\reverse_string.dll
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\bin\Debug\net7.0\reverse_string.pdb
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.dll
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\refint\reverse_string.dll
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.pdb
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\reverse_string.genruntimeconfig.cache
+C:\Projetos\CSharp\resolucao_desafios\reverse_string\obj\Debug\net7.0\ref\reverse_string.dll
