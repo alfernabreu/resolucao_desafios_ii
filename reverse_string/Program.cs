@@ -56,5 +56,3 @@ namespace reverse_string
         }
     }
 }
-
-
